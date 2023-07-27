@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-5" transform="translate(0.75 0.75)">
+    <path d="M20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.9543 0 0 8.9543 0 20C0 31.0457 8.9543 40 20 40Z" id="Oval" fill="#015AA8" fill-rule="evenodd" stroke="none" />
+    <g id="arrows-diagrams-22" transform="translate(7 8)">
+      <g id="Group" transform="translate(5 7)">
+        <path d="M14 0.5L0 0.5" transform="translate(0 4.5)" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0 5L5 0" transform="translate(9 5)" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0 0L5 5" transform="translate(9 0)" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

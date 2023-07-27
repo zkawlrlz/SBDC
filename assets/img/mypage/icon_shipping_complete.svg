@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Delivery,-Shipment,-Packages,-Checkmark" transform="translate(1 1)">
+    <path d="M0 0L40 0L40 40L0 40L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M18.3333 28.3333L3.54167 28.3333C1.585 28.3333 0 26.7483 0 24.7917L0 8.09167C0 7.61333 0.0966667 7.13833 0.285 6.7L2.23 2.15C2.78667 0.846667 4.06833 0 5.48667 0L22.8483 0C24.2667 0 25.5467 0.846667 26.105 2.15L28.05 6.7C28.2367 7.14 28.3333 7.61333 28.3333 8.09167L28.3333 15" transform="translate(5 5)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M0.833333 0L0.833333 7.4" transform="translate(18.333252 5)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M28.19 0.833333L0 0.833333" transform="translate(5.0717773 11.566681)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M0 0.833333L3.33333 0.833333" transform="translate(10 25.833344)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M8.33333 16.6667C3.73167 16.6667 0 12.935 0 8.33333C0 3.73167 3.73167 0 8.33333 0C12.9367 0 16.6667 3.73167 16.6667 8.33333C16.6667 12.935 12.9367 16.6667 8.33333 16.6667" transform="translate(20 18.333344)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M6.48333 0L2.43167 4.05167L0 1.62" transform="translate(25.090088 25.046661)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

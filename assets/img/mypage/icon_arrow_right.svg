@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group" transform="translate(1 1)">
+    <g id="Arrow">
+      <path d="M0 0L20 0L20 20L0 20L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M0 8L4 4L0 0" transform="translate(8 6)" id="Path" fill="none" fill-rule="evenodd" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

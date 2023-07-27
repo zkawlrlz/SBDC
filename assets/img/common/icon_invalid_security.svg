@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.06666667 0 0 0 0 0.06666667 0 0 0 0 0.06666667 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Eye,-Show,-Visible-Copy" transform="translate(1.0150375 1.0150375)" filter="url(#filter_1)">
+    <g id="Group-22">
+      <path d="M0.10467 6.40029C-0.0348899 6.15086 -0.0348899 5.84829 0.10467 5.59886C1.78649 2.59971 4.89325 0 8 0C11.1068 0 14.2135 2.59971 15.8953 5.59971C16.0349 5.84914 16.0349 6.15171 15.8953 6.40114C14.2135 9.40029 11.1068 12 8 12C4.89325 12 1.78649 9.40029 0.10467 6.40029Z" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M4.55241 4.3897C3.51098 5.3939 1.82249 5.3939 0.781068 4.3897C-0.260356 3.3855 -0.260356 1.75736 0.781068 0.753152C1.82249 -0.251051 3.51098 -0.251051 4.55241 0.753152C5.59383 1.75736 5.59383 3.3855 4.55241 4.3897Z" transform="translate(5.333244 3.4285736)" id="Path" fill="#FFFFFF" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2.030075" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

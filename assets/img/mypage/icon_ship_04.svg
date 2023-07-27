@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.06666667 0 0 0 0 0.06666667 0 0 0 0 0.06666667 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Delivery,-Shipment,-Packages,-Refresh" transform="translate(0.9800997 0.98010254)" filter="url(#filter_1)">
+    <g id="Group" transform="translate(3.875 4.1006947)">
+      <path d="M14.2083 21.3484L2.74479 21.3484C1.22838 21.3484 0 20.1541 0 18.6798L0 6.09685C0 5.73643 0.0749167 5.37854 0.220875 5.04826L1.72825 1.61997C2.15967 0.63794 3.15296 0 4.25217 0L17.7075 0C18.8067 0 19.7987 0.63794 20.2314 1.61997L21.7388 5.04826C21.8834 5.37979 21.9583 5.73643 21.9583 6.09685L21.9583 11.3021" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.645833 0L0.645833 5.57569" transform="translate(10.333333 0)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M21.8472 0.627894L0 0.627894" transform="translate(0.055541668 4.947801)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0.627894L2.58333 0.627894" transform="translate(3.875 15.697338)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M6.45833 12.5579C2.89204 12.5579 0 9.74616 0 6.27893C0 2.81171 2.89204 0 6.45833 0C10.0259 0 12.9167 2.81171 12.9167 6.27893C12.9167 9.74616 10.0259 12.5579 6.45833 12.5579" transform="translate(11.625 10.046296)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M2.79646 0.508594L3.31958 0C3.79104 1.08123 3.57404 2.3772 2.66729 3.25751C1.94008 3.96452 0.940333 4.23075 0 4.07377" transform="translate(17.574417 15.167396)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.765215 3.60767L0.24209 4.11627C-0.229368 3.03503 -0.0123681 1.73906 0.894382 0.858754C1.66551 0.109049 2.74534 -0.143364 3.73476 0.0763988" transform="translate(15.030577 13.366801)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M0 0L31 0L31 30L0 30L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

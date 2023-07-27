@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Bell,-Notification-Copy" transform="translate(0.58935547 0.5892868)">
+    <g id="Group">
+      <path d="M0 0L16 0L16 20L0 20L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M1.77745 4.531C1.77745 2.028 4.6549 0 7.10784 0C9.56225 0 12.4392 2.029 12.4392 4.531L12.4392 7.328C12.4392 7.858 12.6461 8.367 13.0137 8.742L13.6422 9.383C14.0098 9.758 14.2167 10.267 14.2167 10.797C14.2167 11.841 13.3873 12.687 12.3637 12.687L1.85294 12.687C0.829412 12.687 0 11.841 0 10.797C0 10.267 0.206863 9.758 0.57451 9.383L1.20294 8.742C1.57059 8.367 1.77745 7.858 1.77745 7.328L1.77745 4.531Z" transform="translate(0.89215684 1.657)" id="Path" fill="#FFFFFF" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.1785715" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M0 5.17442e-13C0.295172 0.913986 1.20306 2.2 2.93072 2.2C4.65838 2.2 5.55119 0.898376 5.85527 0C5.85527 -1.63952e-13 0 2.8394e-13 0 5.17442e-13Z" transform="translate(5.0692825 16)" id="Path" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

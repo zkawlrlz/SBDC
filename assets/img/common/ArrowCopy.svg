@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.003921569 0 0 0 0 0.3529412 0 0 0 0 0.65882355 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Arrow-Copy">
+    <g id="Arrow-Copy" filter="url(#filter_1)">
+      <path d="M0 0L20 0L20 20L0 20L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M0 8L1.93775 6.06225L4 4L0 0" transform="translate(8 6)" id="Path" fill="none" fill-rule="evenodd" stroke="#F2F2F2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

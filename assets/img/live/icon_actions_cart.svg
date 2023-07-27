@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-6" transform="translate(1 1)">
+    <g id="bag-shopping">
+      <g id="icon" transform="translate(5 3.75)">
+        <path d="M17.5 17.5L2.5 17.5C1.11875 17.5 0 16.3813 0 15L0 2.5C0 1.11875 1.11875 0 2.5 0L17.5 0C18.8812 0 20 1.11875 20 2.5L20 15C20 16.3813 18.8812 17.5 17.5 17.5Z" transform="translate(0 5)" id="Path" fill="#FFFFFF" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0 3.75C0 1.67875 1.67875 0 3.75 0C5.82125 0 7.5 1.67875 7.5 3.75" transform="translate(6.25 0)" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0.625 1.25L0.625 0" transform="translate(13.125 3.75)" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M0.625 1.25L0.625 0" transform="translate(5.625 3.75)" id="Path" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M0 0L30 0L30 30L0 30L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

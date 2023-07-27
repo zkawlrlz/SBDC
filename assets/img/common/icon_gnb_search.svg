@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Group-15" transform="translate(0.75 0.75)">
+    <g id="Group-9">
+      <g id="search-loupe-delete" filter="url(#filter_1)">
+        <path d="M0 0L20 0L20 20L0 20L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+        <g id="Group" transform="translate(3.3333333 3.3333333)">
+          <path d="M12.445 6.2225L12.445 6.2225C12.445 9.65917 9.65917 12.445 6.2225 12.445L6.2225 12.445C2.78583 12.445 0 9.65917 0 6.2225L0 6.2225C0 2.78583 2.78583 0 6.2225 0L6.2225 0C9.65917 0 12.445 2.78583 12.445 6.2225Z" id="Path" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M3.54167 3.54167L0 0" transform="translate(10.625 10.625)" id="Path" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

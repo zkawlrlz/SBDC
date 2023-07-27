@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.06666667 0 0 0 0 0.06666667 0 0 0 0 0.06666667 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Credit-card.3" transform="translate(0.98010254 0.98010254)" filter="url(#filter_1)">
+    <g id="Group" transform="translate(3.875 6.25)">
+      <path d="M0 0.625L23.25 0.625" transform="translate(0 4.375)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M3.31958 0.625L0 0.625" transform="translate(5.1666665 9.375)" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M19.375 17.5L3.875 17.5C1.73471 17.5 0 15.8212 0 13.75L0 3.75C0 1.67875 1.73471 0 3.875 0L19.375 0C21.5153 0 23.25 1.67875 23.25 3.75L23.25 13.75C23.25 15.8212 21.5153 17.5 19.375 17.5Z" id="Path" fill="none" fill-rule="evenodd" stroke="#444444" stroke-width="1.9602" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M0 0L31 0L31 30L0 30L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

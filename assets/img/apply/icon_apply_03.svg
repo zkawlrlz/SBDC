@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Documents,-File,-Certificate" transform="translate(1.5 1.5)">
+    <g id="Group" transform="translate(12.5 7.5)">
+      <path d="M35 24.9525L35 12.07C35 10.745 34.4725 9.4725 33.535 8.535L26.465 1.465C25.5275 0.5275 24.255 0 22.93 0L5 0C2.2375 0 0 2.2375 0 5L0 40C0 42.7625 2.2375 45 5 45L24.67 45" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M12.5 12.5L2.5 12.5C1.12 12.5 0 11.38 0 10L0 0" transform="translate(22.5 0)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M7.78 0L2.9175 4.8625L0 1.945" transform="translate(26.11 33.0575)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.688125 14.5331L2.34812 16.7056L2.70813 19.4081C2.90813 20.9081 4.08562 22.0881 5.58563 22.2881L8.29562 22.6506L10.4656 24.3106C11.6656 25.2281 13.3331 25.2281 14.5331 24.3106L16.7056 22.6506L16.7031 22.6506L19.4081 22.2906C20.9081 22.0906 22.0881 20.9131 22.2881 19.4131L22.6506 16.7031C22.6506 16.7056 23.4906 15.6056 24.3106 14.5331C25.2281 13.3331 25.2281 11.6656 24.3106 10.4656L22.6506 8.29313L22.2906 5.59063C22.0906 4.09063 20.9131 2.91062 19.4131 2.71063L16.7031 2.34812L14.5331 0.688125C13.3331 -0.229375 11.6656 -0.229375 10.4656 0.688125L8.29313 2.34812L8.29562 2.34812L5.59063 2.70813C4.09063 2.90813 2.91062 4.08562 2.71063 5.58563L2.34812 8.29562C2.34812 8.29313 1.50813 9.39312 0.688125 10.4656C-0.229375 11.6656 -0.229375 13.3306 0.688125 14.5331L0.688125 14.5331Z" transform="translate(17.499374 22.501875)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M0 0L60 0L60 60L0 60L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

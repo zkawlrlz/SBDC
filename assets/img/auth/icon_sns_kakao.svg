@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <image width="44" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAApCAYAAABOScuyAAAAAXNSR0IArs4c6QAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABIAAAAAQAApFIAAAJHAAOgAQADAAAAAQABAACgAgAEAAAAAQAAACygAwAEAAAAAQAAACkAAAAAJXkhcwAAAAlwSFlzAAALEwAACxkB+nV0kgAAA29JREFUWAnVmctPE1EUxr9OW6bQUkZAJZJCRDExPBMwURORYGLAjSsSN4YdGhISTPwDjBuNG8PO+Fi4JT4R0SULYjSSAAsToiYuNASVlxjKo6X1O6VDLK/OlMJMT/LlzPTeuec3p3dO79w6sEMr8mH/XASBYBCBw8Won19A/fQsisIRwO/FRLYHQz+nMMQw3+P6vZOQDrMXt7fD3fsUtX+DaAyv4ORyCMccDhRGInApCjyIQo1E4YqPG6ZfohapMPtN0n+mf+90YiAUwgjPQ1T6rbEWWoGGNlVFH8HGGWGWioHQRw1KbkCukWvHCd7nBNp4rFHpsc5OqAcKcNmjYpABpjiqBDQKmKyfjCVjDlKXKZVK3aqPo9LvQ4+yCipfXTKAVNtlbAHvoSopcxaNwsEHqJVZHeOV6cxoshuSWGOc362GiQmrHC1Dh9uFX7xohUoWJN3tElNid1Dbm2S2vBxXs1yYYc90g5gdTxiubEtcX4ULnAZSJ80Ovlv9haVlU+hLFxHQ/PhkI1g9CcIUSICWeVtyCN0sW1In9Y528cLUnQDcfA7VvhxM2xBWT5qwVceg5UE7UoIHzK7eaFd/PwZ89wa0fA0/bJxdPYGyeNJwogoNapbts6tDNyh+jasumdaZYWecbgX3JmdQmBm8OOjIVhFZWILpdbFFNxhWcr2xXzaL4psOO6mUlaKXC/JMsZdKcBmvWIMzxV4rRQUY5oJnLgOIhXEEso7Iz8Mbnui1zq6+X5KqcDpENA0Pucq3uz1aA5QXzdwcfOAHds2usCW+oJYWo8nljO0R2A1aXlCb1rKrH8iqjTX5tg1Xbbd0xg2+pQUq18XP2WCXLD8jS+JUWE9dV4c8lrl+G2RaqoJ/Pd+m5xUV8Hmy8JiNVmVaYvs2hdvqQ5nTqhtdzPSfPQSXWF1U6r+9Xi9qWKNfcJDd3KqSb1Ji1FDpMS6QrnOkdE8R2Zrqo5qNUur7uEb6b/+0Ghlhtc8Cnew1vKWkCgxThs0wMDesG7YalRMuzNQPsF1ual/c08U2s2fpJ6gv1Cg1Qn2lZA9t10wgZBN7w5TgQznqcuH8f5HdPPbEJceW2GlG5b8WCcCLXPff4Wd5lhAlCXptHexHnp9Nco2lzU/iwPP0NylzRX2P0bMZ7xv1jjq1x7FTCicPjlQIAbfc/gHoSY4GU+x7EwAAAABJRU5ErkJggg==" id="img_1" />
+  </defs>
+  <g id="kakao">
+    <g id="KAKAO_icon--Copy">
+      <path d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z" id="Mask" fill="#FFE100" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" transform="matrix(0.5 0 0 0.5121951 14 15)" />
+      </g>
+    </g>
+  </g>
+</svg>

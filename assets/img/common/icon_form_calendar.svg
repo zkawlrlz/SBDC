@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-10" transform="translate(0.5 0.5)">
+    <path d="M0.333333 0L0.333333 2" transform="translate(10.3333435 2)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M0.333333 0L0.333333 2" transform="translate(5 2)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M0 0.333333L12 0.333333" transform="translate(2 5.6666565)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M10.6667 0L1.33333 0C0.596667 0 0 0.596667 0 1.33333L0 10C0 10.7367 0.596667 11.3333 1.33333 11.3333L10.6667 11.3333C11.4033 11.3333 12 10.7367 12 10L12 1.33333C12 0.596667 11.4033 0 10.6667 0Z" transform="translate(2 2.6666565)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M0 0L16 0L16 16L0 16L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

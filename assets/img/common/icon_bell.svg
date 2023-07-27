@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Bell,-Notification">
+    <g id="Bell,-Notification">
+      <g id="Group">
+        <path d="M0 0L15 0L15 20L0 20L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0.000961539L0 0.351923C0 1.56827 0.943014 2.55481 2.10662 2.55481L2.10662 2.55481C3.27022 2.55481 4.21323 1.56827 4.21323 0.350962L4.21323 0" transform="translate(5.3933716 14.560303)" id="Path" fill="none" fill-rule="evenodd" stroke="#999999" stroke-width="1.5172414" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1.66636 4.35673C1.66636 1.95 4.36443 0 6.66406 0C8.96416 0 11.6618 1.95096 11.6618 4.35673L11.6618 7.04615C11.6618 7.55577 11.8557 8.04519 12.2004 8.40577L12.7895 9.02212C13.1342 9.38269 13.3281 9.87212 13.3281 10.3817C13.3281 11.3856 12.5506 12.199 11.591 12.199L1.73713 12.199C0.777574 12.199 0 11.3856 0 10.3817C0 9.87212 0.193934 9.38269 0.538603 9.02212L1.12776 8.40577C1.47243 8.04519 1.66636 7.55577 1.66636 7.04615L1.66636 4.35673Z" transform="translate(0.8364258 2.3625488)" id="Path" fill="none" fill-rule="evenodd" stroke="#999999" stroke-width="1.5172414" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+  </g>
+</svg>

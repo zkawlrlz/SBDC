@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Bag,-Gift,-Package,-Pack,-Heart" transform="translate(1.5 1.5)">
+    <path d="M0 0L60 0L60 60L0 60L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M34.8163 4.44089e-15L4.49631 4.44089e-15C3.17881 4.44089e-15 2.08881 1.02 2.00131 2.3325L0.0113073 32.1675C-0.181193 35.0525 2.10881 37.5 5.00131 37.5L34.3113 37.5C37.2038 37.5 39.4938 35.0525 39.3013 32.1675L37.3113 2.3325C37.2238 1.02 36.1338 0 34.8163 4.44089e-15Z" transform="translate(10.343693 17.5)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M15.0025 17.5L15.0025 7.5L15.0025 7.5L15.0025 7.5C15.0025 3.3575 11.645 0 7.5025 0L7.5 0C3.3575 0 0 3.3575 0 7.5L0 7.5L0 7.5L0 17.5" transform="translate(22.5 5)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M7.5 1.3375C8.075 0.7075 9.0675 0 10.58 0C13.225 0 15 2.3275 15 4.495C15 9.0275 8.9825 12.5 7.5 12.5C6.0175 12.5 0 9.0275 0 4.495C0 2.3275 1.775 0 4.42 0C5.9325 0 6.925 0.7075 7.5 1.3375Z" transform="translate(22.5 32.5)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

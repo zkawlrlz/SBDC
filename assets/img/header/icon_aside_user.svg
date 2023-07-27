@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="User,Profile.12" transform="translate(0.8000488 0.80000305)" filter="url(#filter_1)">
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    <g id="User,-Profile,-Add">
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" id="a" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M6.80112 1.16689C8.35697 2.72274 8.35697 5.24527 6.80112 6.80112C5.24527 8.35697 2.72274 8.35697 1.16689 6.80112C-0.388963 5.24527 -0.388963 2.72274 1.16689 1.16689C2.72274 -0.388963 5.24527 -0.388963 6.80112 1.16689" transform="translate(8.015983 3.0000024)" id="Path" fill="none" fill-rule="evenodd" stroke="#111111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M9 0C13.554 0 18 1.967 18 4.992L18 5.992C18 6.544 17.552 6.992 17 6.992L1 6.992C0.448 6.992 0 6.544 0 5.992L0 4.992C0 1.966 4.446 0 9 0" transform="translate(3 14.008)" id="Path" fill="none" fill-rule="evenodd" stroke="#111111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" id="a" fill="none" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

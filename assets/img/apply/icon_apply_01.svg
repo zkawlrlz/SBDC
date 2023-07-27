@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Store,-Shop,-Сertificate,-Check-mark" transform="translate(1.5 1.5)">
+    <path d="M60 60L0 60L0 0L60 0L60 60Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L60 0L60 60L0 60L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M3.55965e-14 1.25L45 1.25" transform="translate(7.5 47.5)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M3.05 1.8L3.05 24.3" transform="translate(45.7 24.45)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M3.05 1.8L3.05 24.3" transform="translate(8.2 24.45)" id="Path-Copy" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M5.75146 19.445C1.50646 19.415 -1.26104 15.2125 0.578964 11.59L4.86896 3.1475C5.84396 1.2225 7.89896 0 10.154 0L39.844 0C42.099 0 44.154 1.2225 45.1315 3.1475L49.4215 11.59C51.2615 15.2125 48.494 19.415 44.249 19.445C40.7065 19.445 37.834 17.025 37.834 14.0375L37.834 13.9175C37.834 16.97 34.9615 19.445 31.419 19.445C27.8715 19.445 24.999 16.97 24.999 13.9175C24.999 16.97 22.1265 19.445 18.584 19.445C15.0415 19.445 12.169 16.97 12.169 13.9175L12.169 14.0375C12.1665 17.025 9.29396 19.445 5.75146 19.445Z" transform="translate(5.0010357 5)" id="Path" fill="none" fill-rule="evenodd" stroke="#323232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
